@@ -36,11 +36,11 @@
 <table>
   <tbody><tr>
     <td>
-      <a target="_blank" rel="noopener noreferrer nofollow"><img align="left" src="https://streak-stats.demolab.com?user=Kiz9Ka&theme=dark&date_format=j%20M%5B%20Y%5D" alt="webDev's Github stats" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=YauhenKavalchuk&amp;theme=algolia" style="max-width: 100%;"></a>
+      <a target="_blank" rel="noopener noreferrer nofollow"><img align="left" src="https://streak-stats.demolab.com?user=Kiz9Ka&theme=dark&" alt="webDev's Github stats" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=YauhenKavalchuk&amp;theme=algolia" style="max-width: 100%;"></a>
     </td>
     <td>
       <a target="_blank" rel="noopener noreferrer nofollow">
-              <img height="195px" align="right" alt="Kiz9Ka Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiz9Ka&theme=dark&layout=compact"           src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact;theme=algolia&amp;layout=compact" style="max-width: 100%;">         
+              <img height="195px" align="right" alt="Kiz9Ka Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiz9Ka&theme=dark"           src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact;theme=algolia&amp;layout=compact" style="max-width: 100%;">         
               </a>
     </td>
   </tr>
